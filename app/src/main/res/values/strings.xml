@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">The Titan Backup</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Layouts-->
+    <string name="swipe_down_to_refresh">Swipe Down to Refresh</string>
+    <string name="empty_list">Empty List? Backup some apps first</string>
+    <string name="stop">Stop</string>
+
+    <!-- BackupScreens -->
+    <string name="preference_path_to_scan">pathToScan</string>
+    <string name="app_loader_process_dialog_message">Loading</string>
+    <string name="returned_from_app_settings_to_activity">Returned from settings</string>
+    <string name="rationale_storage">Needs storage permission</string>
+    <string name="backup_title">Backup</string>
+    <string name="no_selection">No apps selected!</string>
+    <string name="backup_stop_button_error">Warning!</string>
+    <string name="backup_stop_button_message">Are you sure to stop the backup process?</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="task_cancelled">Task Cancelled</string>
+    <string name="notification_backup_default">Backup Successful</string>
+    <string name="success_backup_notification">Backed up Successfully</string>
+    <string name="success_backup">Backup Success</string>
+    <string name="not_backedup_textview_heading">Not BackedUp Apps:</string>
+    <string name="no_apps_found">No apps found. Swipe down to refresh or Change the folder to scan</string>
+    <string name="restore_title">Restore</string>
+    <string name="restore_stop_button_message">Are you sure to stop the restore process?</string>
+    <string name="success_restore">Restoration Completed Successfully!</string>
+
+    <string name="menu_action_mode_delete">Delete</string>
+
+    <string name="notification_backing_up">Backing up:</string>
+    <string name="notification_restoring">Restoring :</string>
+    <string name="notification_restore_default">Restoration success.</string>
+</resources>
